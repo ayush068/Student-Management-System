@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+#body{
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+    background-color: #FFACAC;
+    border: 3px solid black;
+    height: 210px;
+    
+}
+#register{
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+    background-color: #FFBFA9;
+    border: 3px solid black;
+    height: 210px;
+    
+}
